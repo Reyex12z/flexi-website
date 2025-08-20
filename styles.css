@@ -25,6 +25,8 @@ a {
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18PX;
+
+    transition: all 0.4s ease-in-out;
 }
 
 .nav {
@@ -187,4 +189,22 @@ strong {
     justify-content: center;
     align-items: center;
     color: white;
+}
+
+
+a:hover {
+    color: white;
+    background-color: rgb(78, 252, 9);
+    padding: 11px 23px;
+    border-radius: 9px;
+}
+
+.b-img img:hover {
+    box-shadow: 0 0 15px 5px black;
+    transform: scale(1.06);
+}
+
+#bb1:hover, #bb2:hover {
+    color: white;
+    background-color: #1f0ffa;
 }
