@@ -7,3 +7,5 @@ boxing1  -Photo by Pavel Danilyuk: https://www.pexels.com/photo/sport-fight-powe
 boxing 2 -Photo by cottonbro studio: https://www.pexels.com/photo/grayscale-photo-of-man-in-black-helmet-4761660/
 boxing 3 -Photo by Coco Championship: https://www.pexels.com/photo/boxing-winner-inside-boxing-ring-598687/
 boxing 4 =Photo by Tima Miroshnichenko: https://www.pexels.com/photo/grayscale-photo-of-a-boxer-training-5750869/
+
+visit website here-> https://68a82b53b659890a02aab2e2--splendid-torte-25dc18.netlify.app/
